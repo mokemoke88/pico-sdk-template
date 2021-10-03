@@ -13,8 +13,9 @@ Docker for Windows (WSL2)
 
 ベースイメージ: debian:bullseye-slim
 
-/opt/pico-sdk 以下に 最新版の Pico SDK (https://github.com/raspberrypi/pico-sdk.git)
-/opt/pico-example 以下に Pico Example (https://github.com/raspberrypi/pico-examples.git)
+- /opt/pico-sdk 以下に 最新版の Pico SDK (https://github.com/raspberrypi/pico-sdk.git)
+
+- /opt/pico-example 以下に Pico Example (https://github.com/raspberrypi/pico-examples.git)
 
 を格納
 
